@@ -32,6 +32,12 @@ Aplicação web para gestão de despesas pessoais desenvolvida em Python com Fla
 
 <img src="image.png" alt="Estrutura do projeto" width="500">
 
+![Página principal](image-1.png)
+
+![Adicionar transação](image-2.png)
+
+![Editar transação](image-3.png)
+
 ---
 
 ## ▶️ Como Executar o Projeto
