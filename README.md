@@ -31,7 +31,7 @@ Aplicação web para gestão de despesas pessoais desenvolvida em Python com Fla
 ## 📁 Estrutura do Projeto
 ## 📁 Estrutura do Projeto
 
-<img src="image.png" alt="Estrutura do projeto" width="400">
+<img src="image.png" alt="Estrutura do projeto" width="200">
 
 <br><br>
 
