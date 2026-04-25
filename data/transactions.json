@@ -1,0 +1,16 @@
+[
+    {
+        "type": "receita",
+        "amount": 1800.0,
+        "category": "Salario Burguer king",
+        "date": "2025-04-12",
+        "description": "finan\u00e7as "
+    },
+    {
+        "type": "despesa",
+        "amount": 21.0,
+        "category": "Higiene",
+        "date": "2026-04-21",
+        "description": "Corte Cabelo"
+    }
+]
