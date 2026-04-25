@@ -1,54 +1,56 @@
 # 💰 Expense Tracker (Python + Flask)
 
-Aplicação web para gestão de despesas pessoais desenvolvida em Python com Flask.
+Aplicação web para gestão de despesas pessoais desenvolvida em **Python + Flask**, com suporte a operações CRUD (Create, Read, Update, Delete).
 
 ---
 
 ## 🚀 Funcionalidades
 
-- ➕ Adicionar transações
-- 📋 Listar transações
-- ✏️ Editar transações
+- ➕ Adicionar transações (receitas e despesas)
+- 📋 Listar todas as transações
+- ✏️ Editar transações existentes
 - 🗑️ Apagar transações
-- 💾 Guardar dados em JSON
-- 🌐 Interface web com Flask
+- 💾 Persistência de dados em ficheiro JSON
+- 🌐 Interface web com Flask (Jinja2)
 - 🖥️ Versão terminal em Python
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python
-- Flask
-- HTML
-- Jinja2
-- Bootstrap
-- JSON
-- Git/GitHub
+- Python  
+- Flask  
+- HTML  
+- Jinja2  
+- Bootstrap  
+- JSON  
+- Git / GitHub  
+
+---
+
+## 📸 Demonstração
+
+### 📊 Página Principal
+<img src="image-1.png" width="600">
+
+### ➕ Adicionar Transação
+<img src="image-2.png" width="600">
+
+### ✏️ Editar Transação
+<img src="image-3.png" width="600">
 
 ---
 
 ## 📁 Estrutura do Projeto
-## 📁 Estrutura do Projeto
 
-<img src="image.png" alt="Estrutura do projeto" width="200">
+<img src="image.png" alt="Estrutura do projeto" width="500">
 
-<br><br>
-
-<img src="image-1.png" alt="Página principal" width="400">
-
-<br>
-
-<img src="image-2.png" alt="Adicionar transação" width="400">
-
-<br>
-
-<img src="image-3.png" alt="Editar transação" width="400">
 ---
 
 ## ▶️ Como Executar o Projeto
 
-### 1. Instalar dependências
+### 1. Clonar o repositório
 
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/abr018/expense-tracker-python.git
+cd expense-tracker-python
